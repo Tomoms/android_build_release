@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui.shared"
+  name: "ambient_aod"
+  state: DISABLED
+  permission: READ_ONLY
+}
